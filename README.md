@@ -1,7 +1,7 @@
 <h1 align="center">BlueBird Movies</h1>
 BlueBird Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
-<img src="/src/assets/project__image/Home.jpg /">
+<img src="/src/assets/project__image/Home.jpg" />
 <hr/>
 <h2> 🍿 Features </h2>
 <ul>
@@ -37,7 +37,7 @@ BlueBird Movies is a React-based movie website that allows users to search for m
 <p>Note that Firebase is only required for Google authentication. If you are not using Google authentication in your application, you can skip this step. </p>
 <p> - Go to the Firebase Console and create a new app. </p>
 <p> - After creating the app, build a web app by clicking "Add App" and following the instructions. </p>
-<img src="./src/assets/project__images">
+<img src="./src/assets/project__images" />
 
 ![Firebase Build App Screenshot](https://user-images.githubusercontent.com/87109400/231568774-1ea09ada-34b8-4035-80d4-90ac79c1c8ed.png)
 
