@@ -30,8 +30,8 @@ BlueBird Movies is a React-based movie website that allows users to search for m
 <h2>Step 2: Obtain the TMDB Movies API Key and Firebase Configuration</h2>
 <p>Before starting the website, you will need to obtain the TMDB Movies API key and Firebase configuration. Follow these steps to obtain them and add them to your <code>.env</code> file.</p>
 <h3> ▶️ Get TMDB API Key</h3>
-<p> Go to <a href="https://www.themoviedb.org/" target="_blank">https://www.themoviedb.org/</a> and log in.</p><br>
-<p> - Click on your user profile picture in the navigation bar, and select "Settings".</p><br>
+<p> Go to <a href="https://www.themoviedb.org/" target="_blank">https://www.themoviedb.org/</a> and log in.</p>
+<p> - Click on your user profile picture in the navigation bar, and select "Settings".</p>
 <p> - In the settings, select "API" and generate an API key.</p>
 <h3> ▶️ Firebase Setup</h3>
 <p>Note that Firebase is only required for Google authentication. If you are not using Google authentication in your application, you can skip this step. </p>
